@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ProAgil-App';
+
+  Nome = 'Jose Fernandes Farias';
+  //AMEI ESSE TECLADO
 }
